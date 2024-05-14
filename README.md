@@ -43,8 +43,8 @@ int main(void)
 	printf("The process id: %d\n",process_id);
 	printf("The process id of parent function: %d\n",p_process_id);
 	return 0; }
-
-##OUTPUT
+ 
+## OUTPUT
 
 ![WhatsApp Image 2024-05-14 at 09 44 30_d127d954](https://github.com/shalini170/Linux-Process-API-fork-wait-exec/assets/151901983/4ca4e7fb-4663-4e43-9675-1436b15b8778)
 
@@ -73,7 +73,7 @@ int main() {
     return 0;
 }
 
-##OUTPUT
+## OUTPUT
 
 ![WhatsApp Image 2024-05-14 at 09 44 30_b850613b](https://github.com/shalini170/Linux-Process-API-fork-wait-exec/assets/151901983/fc86a52c-8f3e-48f5-b04d-8e77cb6729e7)
 
@@ -107,7 +107,7 @@ int main() {
     return 0;
 }
 
-##OUTPUT
+## OUTPUT
 
 ![WhatsApp Image 2024-05-14 at 09 44 31_cfa12770](https://github.com/shalini170/Linux-Process-API-fork-wait-exec/assets/151901983/96f59942-28a3-4961-ba6d-458af9172f76)
 
