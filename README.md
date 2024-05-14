@@ -106,7 +106,6 @@ int main() {
     }
     return 0;
 }
-
 ## OUTPUT
 
 ![WhatsApp Image 2024-05-14 at 09 44 31_cfa12770](https://github.com/shalini170/Linux-Process-API-fork-wait-exec/assets/151901983/96f59942-28a3-4961-ba6d-458af9172f76)
